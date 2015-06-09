@@ -1,20 +1,23 @@
 .sameDiv {
-	border: 1px solid #aaa;
+	/*border: 1px solid #aaa;
 	width: 57px;
-	height: 57px;
+	height: 57px;*/
 	display: inline-block;
 }
 
 body {
 	margin: 0 auto;
 	padding: 0;
+	background-image: url('../images/tile2.jpg');
 
 }
 
 .wrapper {
 	text-align: center;
-	width: 960px;
+	width: 1080px;
+	height: 938px;
 	margin: 0 auto;
+	border-radius: 5px;
 
 }
 
